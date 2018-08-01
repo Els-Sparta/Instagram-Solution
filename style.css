@@ -1,3 +1,20 @@
-body {
-  background-color: firebrick;
+.container {
+  width:800px;
+  background-color:firebrick;
+  margin:auto;
+  margin-top:50px;
+}
+
+.phone-image {
+  height:200px;
+  background-color:green;
+  width: 450px;
+  display: inline-block;
+}
+
+.signup-form {
+  height:200px;
+  background-color:blue;
+  width: 346px;
+  display: inline-block;
 }
