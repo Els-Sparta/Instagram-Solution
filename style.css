@@ -1,20 +1,24 @@
 .container {
   width:800px;
-  background-color:firebrick;
   margin:auto;
   margin-top:50px;
 }
 
 .phone-image {
-  height:200px;
-  background-color:green;
-  width: 450px;
+  width: 440px;
   display: inline-block;
+  border: 2px solid black;
+  text-align: center;
 }
 
 .signup-form {
   height:200px;
-  background-color:blue;
   width: 346px;
   display: inline-block;
+  background-color: blue;
+}
+
+.phone-image img {
+  width: 400px;
+  margin-top: 40px;
 }
